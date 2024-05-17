@@ -1014,6 +1014,7 @@
 ./usr/lib/keymaps/us-std-esc.map					minix-sys
 ./usr/lib/keymaps/us-std.map					minix-sys
 ./usr/lib/keymaps/us-swap.map					minix-sys
+usr/lib/keymaps/ar-101.map                  minix-sys
 ./usr/lib/libarchive.a					minix-sys
 ./usr/lib/libarchive_pic.a					minix-sys
 ./usr/lib/libarchive.so.0.0					minix-sys
